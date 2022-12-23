@@ -26,7 +26,7 @@ Curl example: `curl -X GET "http://192.168.0.00:0000/ping"`
 
 - Rust compiler and tools (installation instructions can be found at https://www.rust-lang.org/tools/install)
 
-## Build
+### Build
 
 1. Clone this repo
 2. Open a terminal in the project
