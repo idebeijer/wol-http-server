@@ -1,5 +1,5 @@
 [package]
-name = "wake-on-lan"
+name = "wol-http-server"
 version = "0.1.0"
 edition = "2021"
 
@@ -7,3 +7,5 @@ edition = "2021"
 
 [dependencies]
 actix-web = "4"
+wol-rs = "1"
+serde = {version = "1.0.151", features = ["derive"]}
